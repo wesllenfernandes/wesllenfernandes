@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Graduando em Tecnologia em Sistemas para Internet<br>🤝 desenvolvedor front end<br>🌱 Habilidades com: python, javascript<br>⚡ A procurra de estágio.
+🔭 Graduando em Tecnologia em Sistemas para Internet<br>🤝 desenvolvedor fullstack node end<br>🌱 Habilidades com: python, javascript<br>⚡ A procurra de estágio.
 
 
 ## 🌐 Socials:
